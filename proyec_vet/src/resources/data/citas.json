@@ -1,0 +1,41 @@
+[
+  {
+    "numeroDocumento": "1145987568",
+    "nombreDueno": "Marta",
+    "apellidoDueno": "Vargas",
+    "telefono": "3125478963",
+    "nombreMascota": "Toby",
+    "tipoAnimal": "Perro",
+    "edadMascota": 7,
+    "motivoConsulta": "Baño y peluqueria - $80.000",
+    "fechaConsulta": "2025-10-05",
+    "horaConsulta": "09:45:00",
+    "veterinario": "Carlos Rodríguez Méndez"
+  },
+  {
+    "numeroDocumento": "1019547869",
+    "nombreDueno": "Jorge",
+    "apellidoDueno": "Silva",
+    "telefono": "3215588741",
+    "nombreMascota": "Misi",
+    "tipoAnimal": "Gato",
+    "edadMascota": 3,
+    "motivoConsulta": "Esterilizacion - $170.000",
+    "fechaConsulta": "2025-09-12",
+    "horaConsulta": "08:30:00",
+    "veterinario": "Carlos Rodríguez Méndez"
+  },
+  {
+    "numeroDocumento": "42365233",
+    "nombreDueno": "Libia",
+    "apellidoDueno": "Rondon",
+    "telefono": "3103503965",
+    "nombreMascota": "Koncho",
+    "tipoAnimal": "Perro",
+    "edadMascota": 4,
+    "motivoConsulta": "Esterilizacion - $170.000",
+    "fechaConsulta": "2025-07-17",
+    "horaConsulta": "10:00:00",
+    "veterinario": "María González López"
+  }
+]

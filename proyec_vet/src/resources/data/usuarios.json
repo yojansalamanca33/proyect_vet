@@ -1,0 +1,38 @@
+[
+  {
+    "user": "ayleenP",
+    "password": "ayleen123",
+    "role": "ADMINISTRADOR"
+  },
+  {
+    "user": "estebanA",
+    "password": "esteban123",
+    "role": "VETERINARIO"
+  },
+  {
+    "user": "santiagoM",
+    "password": "santiago123",
+    "role": "CLIENTE"
+  },
+  {
+    "user": "pedroJimenez",
+    "password": "pedro123",
+    "role": "CLIENTE"
+  },
+  {
+    "user": "mgonzalez",
+    "password": "vet123secure",
+     "role": "VETERINARIO"
+    }
+    ,
+  {
+    "user": "crodriguez",
+    "password": "vet456secure",
+     "role": "VETERINARIO"
+    },
+    {
+    "user": "mgarcia",
+    "password": "vet789secure",
+     "role": "VETERINARIO"
+    }
+]
